@@ -1,0 +1,198 @@
+/*--------------------
+CSS color changer
+-----------------------*/
+ 
+/* default bg color*/
+body.skype-color-body .woocommerce a.remove:hover,
+body.skype-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send,
+body.skype-color-body .contact .leave-comments-area .wpcf7-submit.btn-send,
+body.skype-color-body .contact .leave-comments-area h4:after,
+body.skype-color-body .contact .contact-us-page h2:after,
+body.skype-color-body .checkout_coupon p .button:hover,
+body.skype-color-body form.login input.button:hover,
+body.skype-color-body .checkout #place_order:hover,
+body.skype-color-body .woocommerce .checkout-button:hover,
+body.skype-color-body .woocommerce .cart input.button:hover,
+body.skype-color-body ul.products a.added_to_cart.wc-forward:hover,
+body.skype-color-body ul.products li.product .add_to_cart_button:hover,
+body.skype-color-body ul.products li.product .onsale,
+body.skype-color-body .error-page-area .error-page,
+body.skype-color-body .error-page-area .error-page-message .home-page a,
+body.skype-color-body .call-top-action,
+body.skype-color-body #scrollUp,
+body.skype-color-body .header-top-area .header-top-left ul li i,
+body.skype-color-body .header-top-area .header-top-right ul li i, 
+body.skype-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:before,
+body.skype-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:hover:before,
+body.skype-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:before,
+body.skype-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:hover:before,
+body.skype-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.skype-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.skype-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.skype-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.skype-color-body .home-about-area .about-content-area .botton-area a,
+body.skype-color-body .home-page-core-activities-area .home-activities-area .single-activities .media .pull-left a,  
+body.skype-color-body .home-faq-area .faq-image-area a img:hover,
+body.skype-color-body .home-team-area .total-team .owl-controls .owl-pagination .owl-page span,
+body.skype-color-body .home-callback-area .call-back-content h2:after,
+body.skype-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send,
+body.skype-color-body .home-testimonial-area .total-testimonial .home-testimonial .owl-controls .owl-pagination .owl-page span,
+body.skype-color-body .total-blog-area .blog-sidebar-area .single-sidebar h2:after,
+body.skype-color-body .total-blog-area .single-blog-post h2:after,
+body.skype-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .owl-controls .owl-pagination .owl-page span,
+body.skype-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial p:after,
+body.skype-color-body .blog-sidebar-area .single-sidebar h2:after,
+body.skype-color-body .our-project-one .pagination-area ul li.active a,
+body.skype-color-body .our-project-two .single-project-two .single-project-two-details h3 a:hover,
+body.skype-color-body .our-project-two .single-project-two .single-project-two-details h3 a:after,
+body.skype-color-body .news-page-area .news-main-content .single-news-area .news-featured-image .date-area,
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar h2:after,
+body.skype-color-body .news-page-area .news-main-content .pagination-area ul li.active a,
+body.skype-color-body .single-news-page-area .single-news-page .news-featured-image .date-area,
+body.skype-color-body .single-news-page-area .single-news-page h3 a:after,
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.skype-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.skype-color-body .single-news-page-area .leave-comments-area fieldset .btn-send,
+body.skype-color-body .contact-us-page-area .contact-us-page h2:after,
+body.skype-color-body .contact-us-page-area .leave-comments-area h4:after,
+body.skype-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send,
+body.skype-color-body .home-faq-area .faq-area h2:after,
+body.skype-color-body .news-page-area .news-main-content .pagination-area ul li a:hover,
+body.skype-color-body .our-project-one .pagination-area ul li a:hover,
+body.skype-color-body .home-news-area .total-homenews .single-news .news-image .news-date,
+body.skype-color-body .site-section-area h2:after {
+  background: #01b1d7 !important;
+}
+/* default color*/
+body.skype-color-body .woocommerce a.remove,
+body.skype-color-body footer .footer-top-area .main-footer .widget_nav_menu .single-footer ul li i,
+body.skype-color-body .home-news-area .total-homenews .single-news h3 a:hover, 
+body.skype-color-body .home-about-area .about-content-area h2 em, 
+body.skype-color-body .home-team-area .total-team .single-team .team-details h3 a:hover, 
+body.skype-color-body .home-counter-down-title h2 em, 
+body.skype-color-body .contact .contact-box .single-contact-box p i, 
+body.skype-color-body .lost_password a, 
+body.skype-color-body .woocommerce-info:before, 
+body.skype-color-body .woocommerce-info a, 
+body.skype-color-body .woocommerce table.shop_table td a:hover, 
+body.skype-color-body ul.products li.product h3:hover, 
+body.skype-color-body .woocommerce-Price-amount, 
+body.skype-color-body .woocommerce table.shop_table td a:hover, 
+body.skype-color-body .woocommerce ul.products li.product h3:hover, 
+body.skype-color-body .products  li .star-rating span:before,
+body.skype-color-body .inner-page-header .header-page-locator ul li,
+body.skype-color-body .main-header-area .search-area #custom-search-input button,
+body.skype-color-body footer .footer-top-area .footer-top h2,
+body.skype-color-body footer .footer-top-area .main-footer .footer-two ul li i,
+body.skype-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a,
+body.skype-color-body footer .footer-top-area .main-footer .footer-three ul li i,
+body.skype-color-body #scrollUp,
+body.skype-color-body .service-area .single-service .media .pull-left a span,
+body.skype-color-body .service-area .single-service .media .media-body .read-more a i,
+body.skype-color-body .home-about-area .about-content-area h2 span,
+body.skype-color-body .home-counter-down-area .home-counter-down-title h2 span,
+body.skype-color-body .home-counter-down-area .ab-count .about-counter-list p,
+body.skype-color-body .home-team-area .total-team .single-team .team-details p,
+body.skype-color-body .home-testimonial-area .total-testimonial .home-testimonial .single-testimonial .details h3,
+body.skype-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.skype-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial h3,
+body.skype-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:hover,
+body.skype-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a,
+body.skype-color-body .news-page-area .news-main-content .single-news-area ul li span,
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-search button,
+body.skype-color-body .single-news-page-area .single-news-page ul li span,
+body.skype-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a,
+body.skype-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body ul li.right i,
+body.skype-color-body .single-news-page-area .author-post .single-author-post .media .media-body h4.media-heading,
+body.skype-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body h4.media-heading,
+body.skype-color-body .contact-us-page-area .contact-box .single-contact-box p i,
+body.skype-color-body .about-page-content .feature-image .about-main-content h4,
+body.skype-color-body .about-page-content .about-service .single-about-services .service-top ul li a span,
+body.skype-color-body .service-area .single-service .media .media-body h4.media-heading a:hover,
+body.skype-color-body .about-page-content .about-service .single-about-services .service-top ul li a:hover {
+  color: #01b1d7;
+}
+/* hover bg color*/
+body.skype-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send:hover,
+body.skype-color-body .contact .leave-comments-area .wpcf7-submit.btn-send:hover,
+body.skype-color-body .error-page-area .error-page-message .home-page a:hover,
+body.skype-color-body .call-top-action .subscribe-now a:hover,
+body.skype-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover, 
+body.skype-color-body .home-about-area .about-content-area .botton-area a:hover,
+body.skype-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send:hover,
+body.skype-color-body .total-blog-area .single-blog-post .download a:hover,
+body.skype-color-body .single-news-page-area .leave-comments-area fieldset .btn-send:hover,
+body.skype-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send:hover {
+  background: #0a6f85 !important;
+}
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a:hover {
+  color: #0a6f85;
+}
+/* border color*/
+body.skype-color-body .woocommerce-info,
+body.skype-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.skype-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.skype-color-body .slider-area .slider-1 div.slider-botton ul li a,
+body.skype-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.skype-color-body .slider-area .slider-2 div.slider-botton ul li a,
+body.skype-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.skype-color-body .service-area .single-service .media .media-body .read-more a:hover,
+body.skype-color-body #scrollUp,
+body.skype-color-body .total-blog-area .single-blog-post .download a,
+body.skype-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.skype-color-body .news-page-area .news-main-content .pagination-area ul li a,
+body.skype-color-body .call-top-action .subscribe-now a:hover,
+body.skype-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover,
+body.skype-color-body .single-news-page-area .single-blog-content blockquote,
+body.skype-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.skype-color-body .our-project-one .pagination-area ul li a {
+  border-color: #01b1d7;
+}
+/* bg rgb color*/
+body.skype-color-body .home-team-area .total-team .single-team .overley:after,
+body.skype-color-body .home-news-area .total-homenews .single-news .news-image a:after,
+body.skype-color-body .our-project-one .project-content-area .single-project-one .project-feature-image .overley,
+body.skype-color-body .our-project-two .single-project-two .project-two-featured-image .overley {
+  background: rgb(1, 177, 215,0.5);
+  background-opacity: .5;
+}
+/* Custom */
+body.skype-color-body .sidebar-area .single-sidebar ul li a:hover,
+body.skype-color-body .sidebar-area .product-categories li a:before, 
+body.skype-color-body .sidebar-area .widget_archive ul li a:before, 
+body.skype-color-body .sidebar-area .widget_nav_menu ul li a:before, 
+body.skype-color-body .sidebar-area .widget_pages ul li a:before, 
+body.skype-color-body .sidebar-area .widget_categories ul li a:before, 
+body.skype-color-body .sidebar-area .widget_meta ul li a:before, 
+body.skype-color-body .sidebar-area .widget_recent_comments #recentcomments li:before, 
+body.skype-color-body .sidebar-area .widget_recent_entries ul li a:before,
+body.skype-color-body .sidebar-area .widget_search .search-form i.fa-search,
+body.skype-color-body .news-page-area .news-main-content .single-news-area h3 a:hover {
+    color: #01b1d7;
+}
+body.skype-color-body .news-page-area .news-main-content .pagination-area .nav-links a{
+	border-color:#01b1d7;
+}
+body.skype-color-body .news-page-area .news-main-content .pagination-area .nav-links a:hover,
+body.skype-color-body .news-page-area .news-main-content .pagination-area .nav-links span.current{
+	background: #01b1d7;
+	border-color:#01b1d7;
+}
+body.skype-color-body .sidebar-area .widget_tag_cloud .tagcloud ul li:hover{
+  background: #01b1d7;
+  border-color:#01b1d7;
+}
+
+body.skype-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a{
+    background: #01b1d7;
+}
+body.skype-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a:hover{
+  background: #01b1d7 !important;
+}
+body.skype-color-body .project-one .project-content-area .single-project-one .project-feature-image .overley {
+    background: rgba(1, 177, 215, 0.9);
+}
+body.skype-color-body .main-header-area .main-menu ul li:hover a {
+    color: #01b1d7;
+}

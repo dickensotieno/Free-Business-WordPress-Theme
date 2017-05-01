@@ -1,0 +1,200 @@
+/*--------------------
+CSS color changer
+-----------------------*/
+ 
+/* default bg color*/
+body.blue-color-body .woocommerce a.remove:hover,
+body.blue-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send,
+body.blue-color-body .contact .leave-comments-area .wpcf7-submit.btn-send,
+body.blue-color-body .contact .leave-comments-area h4:after,
+body.blue-color-body .contact .contact-us-page h2:after,
+body.blue-color-body .checkout_coupon p .button:hover,
+body.blue-color-body form.login input.button:hover,
+body.blue-color-body .checkout #place_order:hover,
+body.blue-color-body .woocommerce .checkout-button:hover,
+body.blue-color-body .woocommerce .cart input.button:hover,
+body.blue-color-body ul.products a.added_to_cart.wc-forward:hover,
+body.blue-color-body ul.products li.product .add_to_cart_button:hover,
+body.blue-color-body ul.products li.product .onsale,
+body.blue-color-body .error-page-area .error-page,
+body.blue-color-body .error-page-area .error-page-message .home-page a,
+body.blue-color-body .call-top-action,
+body.blue-color-body #scrollUp,
+body.blue-color-body .header-top-area .header-top-left ul li i,
+body.blue-color-body .header-top-area .header-top-right ul li i, 
+body.blue-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:before,
+body.blue-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:hover:before,
+body.blue-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:before,
+body.blue-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:hover:before,
+body.blue-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.blue-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.blue-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.blue-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.blue-color-body .home-about-area .about-content-area .botton-area a,
+body.blue-color-body .home-page-core-activities-area .home-activities-area .single-activities .media .pull-left a,  
+body.blue-color-body .home-faq-area .faq-image-area a img:hover,
+body.blue-color-body .home-team-area .total-team .owl-controls .owl-pagination .owl-page span,
+body.blue-color-body .home-callback-area .call-back-content h2:after,
+body.blue-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send,
+body.blue-color-body .home-testimonial-area .total-testimonial .home-testimonial .owl-controls .owl-pagination .owl-page span,
+body.blue-color-body .total-blog-area .blog-sidebar-area .single-sidebar h2:after,
+body.blue-color-body .total-blog-area .single-blog-post h2:after,
+body.blue-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .owl-controls .owl-pagination .owl-page span,
+body.blue-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial p:after,
+body.blue-color-body .blog-sidebar-area .single-sidebar h2:after,
+body.blue-color-body .our-project-one .pagination-area ul li.active a,
+body.blue-color-body .our-project-two .single-project-two .single-project-two-details h3 a:hover,
+body.blue-color-body .our-project-two .single-project-two .single-project-two-details h3 a:after,
+body.blue-color-body .news-page-area .news-main-content .single-news-area .news-featured-image .date-area,
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar h2:after,
+body.blue-color-body .news-page-area .news-main-content .pagination-area ul li.active a,
+body.blue-color-body .single-news-page-area .single-news-page .news-featured-image .date-area,
+body.blue-color-body .single-news-page-area .single-news-page h3 a:after,
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.blue-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.blue-color-body .single-news-page-area .leave-comments-area fieldset .btn-send,
+body.blue-color-body .contact-us-page-area .contact-us-page h2:after,
+body.blue-color-body .contact-us-page-area .leave-comments-area h4:after,
+body.blue-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send,
+body.blue-color-body .home-faq-area .faq-area h2:after,
+body.blue-color-body .news-page-area .news-main-content .pagination-area ul li a:hover,
+body.blue-color-body .our-project-one .pagination-area ul li a:hover,
+body.blue-color-body .home-news-area .total-homenews .single-news .news-image .news-date,
+body.blue-color-body .site-section-area h2:after {
+  background: #0000ff !important;
+}
+/* default color*/
+body.blue-color-body .woocommerce a.remove,
+body.blue-color-body footer .footer-top-area .main-footer .widget_nav_menu .single-footer ul li i,
+body.blue-color-body .home-news-area .total-homenews .single-news h3 a:hover, 
+body.blue-color-body .home-about-area .about-content-area h2 em, 
+body.blue-color-body .home-team-area .total-team .single-team .team-details h3 a:hover, 
+body.blue-color-body .home-counter-down-title h2 em, 
+body.blue-color-body .contact .contact-box .single-contact-box p i, 
+body.blue-color-body .lost_password a, 
+body.blue-color-body .woocommerce-info:before, 
+body.blue-color-body .woocommerce-info a, 
+body.blue-color-body .woocommerce table.shop_table td a:hover, 
+body.blue-color-body ul.products li.product h3:hover, 
+body.blue-color-body .woocommerce-Price-amount, 
+body.blue-color-body .woocommerce table.shop_table td a:hover, 
+body.blue-color-body .woocommerce ul.products li.product h3:hover, 
+body.blue-color-body .products  li .star-rating span:before,
+body.blue-color-body .inner-page-header .header-page-locator ul li,
+body.blue-color-body .main-header-area .search-area #custom-search-input button,
+body.blue-color-body footer .footer-top-area .footer-top h2,
+body.blue-color-body footer .footer-top-area .main-footer .footer-two ul li i,
+body.blue-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a,
+body.blue-color-body footer .footer-top-area .main-footer .footer-three ul li i,
+body.blue-color-body #scrollUp,
+body.blue-color-body .service-area .single-service .media .pull-left a span,
+body.blue-color-body .service-area .single-service .media .media-body .read-more a i,
+body.blue-color-body .home-about-area .about-content-area h2 span,
+body.blue-color-body .home-counter-down-area .home-counter-down-title h2 span,
+body.blue-color-body .home-counter-down-area .ab-count .about-counter-list p,
+body.blue-color-body .home-team-area .total-team .single-team .team-details p,
+body.blue-color-body .home-testimonial-area .total-testimonial .home-testimonial .single-testimonial .details h3,
+body.blue-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.blue-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial h3,
+body.blue-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:hover,
+body.blue-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a,
+body.blue-color-body .news-page-area .news-main-content .single-news-area ul li span,
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-search button,
+body.blue-color-body .single-news-page-area .single-news-page ul li span,
+body.blue-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a,
+body.blue-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body ul li.right i,
+body.blue-color-body .single-news-page-area .author-post .single-author-post .media .media-body h4.media-heading,
+body.blue-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body h4.media-heading,
+body.blue-color-body .contact-us-page-area .contact-box .single-contact-box p i,
+body.blue-color-body .about-page-content .feature-image .about-main-content h4,
+body.blue-color-body .about-page-content .about-service .single-about-services .service-top ul li a span,
+body.blue-color-body .service-area .single-service .media .media-body h4.media-heading a:hover,
+body.blue-color-body .about-page-content .about-service .single-about-services .service-top ul li a:hover {
+  color: #0000ff;
+}
+/* hover bg color*/
+body.blue-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send:hover,
+body.blue-color-body .contact .leave-comments-area .wpcf7-submit.btn-send:hover,
+body.blue-color-body .error-page-area .error-page-message .home-page a:hover,
+body.blue-color-body .call-top-action .subscribe-now a:hover,
+body.blue-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover, 
+body.blue-color-body .home-about-area .about-content-area .botton-area a:hover,
+body.blue-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send:hover,
+body.blue-color-body .total-blog-area .single-blog-post .download a:hover,
+body.blue-color-body .single-news-page-area .leave-comments-area fieldset .btn-send:hover,
+body.blue-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send:hover {
+  background: #0c0ca7 !important;
+}
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a:hover {
+  color: #0c0ca7;
+}
+/* border color*/
+body.blue-color-body .woocommerce-info,
+body.blue-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.blue-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.blue-color-body .slider-area .slider-1 div.slider-botton ul li a,
+body.blue-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.blue-color-body .slider-area .slider-2 div.slider-botton ul li a,
+body.blue-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.blue-color-body .service-area .single-service .media .media-body .read-more a:hover,
+body.blue-color-body #scrollUp,
+body.blue-color-body .total-blog-area .single-blog-post .download a,
+body.blue-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.blue-color-body .news-page-area .news-main-content .pagination-area ul li a,
+body.blue-color-body .call-top-action .subscribe-now a:hover,
+body.blue-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover,
+body.blue-color-body .single-news-page-area .single-blog-content blockquote,
+body.blue-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.blue-color-body .our-project-one .pagination-area ul li a {
+  border-color: #0000ff;
+}
+/* bg rgb color*/
+body.blue-color-body .home-team-area .total-team .single-team .overley:after,
+body.blue-color-body .home-news-area .total-homenews .single-news .news-image a:after,
+body.blue-color-body .our-project-one .project-content-area .single-project-one .project-feature-image .overley,
+body.blue-color-body .our-project-two .single-project-two .project-two-featured-image .overley {
+  background: rgba(0, 0, 255, 0.5);
+}
+/* Custom */
+body.blue-color-body .sidebar-area .single-sidebar ul li a:hover,
+body.blue-color-body .sidebar-area .product-categories li a:before, 
+body.blue-color-body .sidebar-area .widget_archive ul li a:before, 
+body.blue-color-body .sidebar-area .widget_nav_menu ul li a:before, 
+body.blue-color-body .sidebar-area .widget_pages ul li a:before, 
+body.blue-color-body .sidebar-area .widget_categories ul li a:before, 
+body.blue-color-body .sidebar-area .widget_meta ul li a:before, 
+body.blue-color-body .sidebar-area .widget_recent_comments #recentcomments li:before, 
+body.blue-color-body .sidebar-area .widget_recent_entries ul li a:before,
+body.blue-color-body .sidebar-area .widget_search .search-form i.fa-search,
+body.blue-color-body .news-page-area .news-main-content .single-news-area h3 a:hover {
+    color: #0000ff;
+}
+body.blue-color-body .news-page-area .news-main-content .pagination-area .nav-links a{
+	border-color:#0000ff;
+}
+body.blue-color-body .news-page-area .news-main-content .pagination-area .nav-links a:hover,
+body.blue-color-body .news-page-area .news-main-content .pagination-area .nav-links span.current{
+	background: #0000ff;
+	border-color:#0000ff;
+}
+body.blue-color-body .sidebar-area .widget_tag_cloud .tagcloud ul li:hover{
+  background: #0000ff;
+  border-color:#0000ff;
+}
+
+body.blue-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a{
+    background: #0000ff;
+}
+body.blue-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a:hover{
+  background: #0000ff !important;
+}
+body.blue-color-body .project-one .project-content-area .single-project-one .project-feature-image .overley {
+    background: rgba(0, 0, 255, 0.9);
+}
+body.blue-color-body .main-header-area .main-menu ul li:hover a {
+    color: #0000ff;
+} 
+body.blue-color-body .main-header-area .main-menu ul li ul li:hover {
+    background:#0000ff;
+}

@@ -1,0 +1,202 @@
+/*--------------------
+CSS color changer
+-----------------------*/
+ 
+/* default bg color*/
+body.red-color-body .woocommerce a.remove:hover,
+body.red-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send,
+body.red-color-body .contact .leave-comments-area .wpcf7-submit.btn-send,
+body.red-color-body .contact .leave-comments-area h4:after,
+body.red-color-body .contact .contact-us-page h2:after,
+body.red-color-body .checkout_coupon p .button:hover,
+body.red-color-body form.login input.button:hover,
+body.red-color-body .checkout #place_order:hover,
+body.red-color-body .woocommerce .checkout-button:hover,
+body.red-color-body .woocommerce .cart input.button:hover,
+body.red-color-body ul.products a.added_to_cart.wc-forward:hover,
+body.red-color-body ul.products li.product .add_to_cart_button:hover,
+body.red-color-body ul.products li.product .onsale,
+body.red-color-body .error-page-area .error-page,
+body.red-color-body .error-page-area .error-page-message .home-page a,
+body.red-color-body .call-top-action,
+body.red-color-body #scrollUp,
+body.red-color-body .header-top-area .header-top-left ul li i,
+body.red-color-body .header-top-area .header-top-right ul li i, 
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:before,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-prevNav:hover:before,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:before,
+body.red-color-body .preview-2 .nivo-directionNav a.nivo-nextNav:hover:before,
+body.red-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.red-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.red-color-body .home-about-area .about-content-area .botton-area a,
+body.red-color-body .home-page-core-activities-area .home-activities-area .single-activities .media .pull-left a,  
+body.red-color-body .home-faq-area .faq-image-area a img:hover,
+body.red-color-body .home-team-area .total-team .owl-controls .owl-pagination .owl-page span,
+body.red-color-body .home-callback-area .call-back-content h2:after,
+body.red-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send,
+body.red-color-body .home-testimonial-area .total-testimonial .home-testimonial .owl-controls .owl-pagination .owl-page span,
+body.red-color-body .total-blog-area .blog-sidebar-area .single-sidebar h2:after,
+body.red-color-body .total-blog-area .single-blog-post h2:after,
+body.red-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .owl-controls .owl-pagination .owl-page span,
+body.red-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial p:after,
+body.red-color-body .blog-sidebar-area .single-sidebar h2:after,
+body.red-color-body .our-project-one .pagination-area ul li.active a,
+body.red-color-body .our-project-two .single-project-two .single-project-two-details h3 a:hover,
+body.red-color-body .our-project-two .single-project-two .single-project-two-details h3 a:after,
+body.red-color-body .news-page-area .news-main-content .single-news-area .news-featured-image .date-area,
+body.red-color-body .news-page-area .sidebar-area .single-sidebar h2:after,
+body.red-color-body .news-page-area .news-main-content .pagination-area ul li.active a,
+body.red-color-body .single-news-page-area .single-news-page .news-featured-image .date-area,
+body.red-color-body .single-news-page-area .single-news-page h3 a:after,
+body.red-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.red-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.red-color-body .single-news-page-area .leave-comments-area fieldset .btn-send,
+body.red-color-body .contact-us-page-area .contact-us-page h2:after,
+body.red-color-body .contact-us-page-area .leave-comments-area h4:after,
+body.red-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send,
+body.red-color-body .home-faq-area .faq-area h2:after,
+body.red-color-body .news-page-area .news-main-content .pagination-area ul li a:hover,
+body.red-color-body .our-project-one .pagination-area ul li a:hover,
+body.red-color-body .home-news-area .total-homenews .single-news .news-image .news-date,
+body.red-color-body .site-section-area h2:after {
+  background: red !important;
+}
+/* default color*/
+body.blue-color-body .woocommerce a.remove,
+body.red-color-body footer .footer-top-area .main-footer .widget_nav_menu .single-footer ul li i,
+body.red-color-body .home-news-area .total-homenews .single-news h3 a:hover, 
+body.red-color-body .home-about-area .about-content-area h2 em, 
+body.red-color-body .home-team-area .total-team .single-team .team-details h3 a:hover, 
+body.red-color-body .home-counter-down-title h2 em, 
+body.red-color-body .contact .contact-box .single-contact-box p i, 
+body.red-color-body .lost_password a, 
+body.red-color-body .woocommerce-info:before, 
+body.red-color-body .woocommerce-info a, 
+body.red-color-body .woocommerce table.shop_table td a:hover, 
+body.red-color-body ul.products li.product h3:hover, 
+body.red-color-body .woocommerce-Price-amount, 
+body.red-color-body .woocommerce table.shop_table td a:hover, 
+body.red-color-body .woocommerce ul.products li.product h3:hover, 
+body.red-color-body .products  li .star-rating span:before,
+body.red-color-body .inner-page-header .header-page-locator ul li,
+body.red-color-body .main-header-area .search-area #custom-search-input button,
+body.red-color-body footer .footer-top-area .footer-top h2,
+body.red-color-body footer .footer-top-area .main-footer .footer-two ul li i,
+body.red-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a,
+body.red-color-body footer .footer-top-area .main-footer .footer-three ul li i,
+body.red-color-body #scrollUp,
+body.red-color-body .service-area .single-service .media .pull-left a span,
+body.red-color-body .service-area .single-service .media .media-body .read-more a i,
+body.red-color-body .home-about-area .about-content-area h2 span,
+body.red-color-body .home-counter-down-area .home-counter-down-title h2 span,
+body.red-color-body .home-counter-down-area .ab-count .about-counter-list p,
+body.red-color-body .home-team-area .total-team .single-team .team-details p,
+body.red-color-body .home-testimonial-area .total-testimonial .home-testimonial .single-testimonial .details h3,
+body.red-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.red-color-body .total-blog-area .blog-sidebar-area .single-sidebar .sidebar-testimonial .single-testimonial h3,
+body.red-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:hover,
+body.red-color-body .blog-sidebar-area .single-sidebar .sidebar-category ul li a:before,
+body.red-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a,
+body.red-color-body .news-page-area .news-main-content .single-news-area ul li span,
+body.red-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-search button,
+body.red-color-body .single-news-page-area .single-news-page ul li span,
+body.red-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a,
+body.red-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body ul li.right i,
+body.red-color-body .single-news-page-area .author-post .single-author-post .media .media-body h4.media-heading,
+body.red-color-body .single-news-page-area .author-comment .single-author-comment .media .media-body h4.media-heading,
+body.red-color-body .contact-us-page-area .contact-box .single-contact-box p i,
+body.red-color-body .about-page-content .feature-image .about-main-content h4,
+body.red-color-body .about-page-content .about-service .single-about-services .service-top ul li a span,
+body.red-color-body .service-area .single-service .media .media-body h4.media-heading a:hover,
+body.red-color-body .about-page-content .about-service .single-about-services .service-top ul li a:hover {
+  color: red;
+}
+/* hover bg color*/
+body.red-color-body .home-callback-area .call-back-form fieldset .wpcf7-submit.btn-send:hover,
+body.red-color-body .contact .leave-comments-area .wpcf7-submit.btn-send:hover,
+body.red-color-body .error-page-area .error-page-message .home-page a:hover,
+body.red-color-body .call-top-action .subscribe-now a:hover,
+body.red-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover, 
+body.red-color-body .home-about-area .about-content-area .botton-area a:hover,
+body.red-color-body .home-callback-area .call-back-form fieldset .form-group button.btn-send:hover,
+body.red-color-body .total-blog-area .single-blog-post .download a:hover,
+body.red-color-body .single-news-page-area .leave-comments-area fieldset .btn-send:hover,
+body.red-color-body .contact-us-page-area .leave-comments-area fieldset .btn-send:hover {
+  background: #b90909 !important;
+}
+/* hover color*/
+body.red-color-body .news-page-area .sidebar-area .single-sidebar .sidebar-recent-post .media-body .posted-date a:hover {
+  color: #b90909;
+}
+/* border color*/
+body.red-color-body .woocommerce-info,
+body.red-color-body .slider-area .slider-1 div.slider-botton ul li.acitve a,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li.acitve a,
+body.red-color-body .slider-area .slider-1 div.slider-botton ul li a,
+body.red-color-body .slider-area .slider-1 div.slider-botton ul li a:hover,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li a,
+body.red-color-body .slider-area .slider-2 div.slider-botton ul li a:hover,
+body.red-color-body .service-area .single-service .media .media-body .read-more a:hover,
+body.red-color-body #scrollUp,
+body.red-color-body .total-blog-area .single-blog-post .download a,
+body.red-color-body .news-page-area .sidebar-area .single-sidebar .popular-tags ul li:hover,
+body.red-color-body .news-page-area .news-main-content .pagination-area ul li a,
+body.red-color-body .call-top-action .subscribe-now a:hover,
+body.red-color-body footer .footer-top-area .main-footer .single-footer .footer-social-media-area ul li a:hover,
+body.red-color-body .single-news-page-area .single-blog-content blockquote,
+body.red-color-body .single-news-page-area .content-info .blog-content-share-social-icons ul li a:hover,
+body.red-color-body .our-project-one .pagination-area ul li a {
+  border-color: red;
+}
+/* bg rgb color*/
+body.red-color-body .home-team-area .total-team .single-team .overley:after,
+body.red-color-body .home-news-area .total-homenews .single-news .news-image a:after,
+body.red-color-body .our-project-one .project-content-area .single-project-one .project-feature-image .overley,
+body.red-color-body .our-project-two .single-project-two .project-two-featured-image .overley {
+  background: rgba(255, 0, 0, 0.5);
+}
+
+/* Custom */
+body.red-color-body .sidebar-area .single-sidebar ul li a:hover,
+body.red-color-body .sidebar-area .product-categories li a:before, 
+body.red-color-body .sidebar-area .widget_archive ul li a:before, 
+body.red-color-body .sidebar-area .widget_nav_menu ul li a:before, 
+body.red-color-body .sidebar-area .widget_pages ul li a:before, 
+body.red-color-body .sidebar-area .widget_categories ul li a:before, 
+body.red-color-body .sidebar-area .widget_meta ul li a:before, 
+body.red-color-body .sidebar-area .widget_recent_comments #recentcomments li:before, 
+body.red-color-body .sidebar-area .widget_recent_entries ul li a:before,
+body.red-color-body .sidebar-area .widget_search .search-form i.fa-search,
+body.red-color-body .news-page-area .news-main-content .single-news-area h3 a:hover {
+    color: red;
+}
+body.red-color-body .news-page-area .news-main-content .pagination-area .nav-links a{
+	border-color:red;
+}
+body.red-color-body .news-page-area .news-main-content .pagination-area .nav-links a:hover,
+body.red-color-body .news-page-area .news-main-content .pagination-area .nav-links span.current{
+	background: red;
+	border-color:red;
+}
+body.red-color-body .sidebar-area .widget_tag_cloud .tagcloud ul li:hover{
+  background: red;
+  border-color:red;
+}
+
+body.red-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a{
+    background: red;
+}
+body.red-color-body .home-faq-area .faq-area .panel-group .panel-default .panel-heading h4.panel-title a:hover{
+  background: red !important;
+}
+body.red-color-body .project-one .project-content-area .single-project-one .project-feature-image .overley {
+    background: rgba(255, 0, 0, 0.9);
+}
+body.red-color-body .main-header-area .main-menu ul li:hover a {
+    color: red;
+}
+body.red-color-body .main-header-area .main-menu ul li ul li:hover {
+    background: red;
+}
